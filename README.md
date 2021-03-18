@@ -4,7 +4,7 @@
 * The README file itself to demonstrate the MARK DOWN syntax
 * .gitignore file itself to notify Git Tool how to upload source code
 * MathUtility class to offer various Math functions
-
+![GitHub Logo](https://www.facebook.com/hsvviethung/photos/a.10165244605900597/10165246644785597/)
 #### Have fun with my code and feel to give me any comments
 
 #### Connect me avi : 
